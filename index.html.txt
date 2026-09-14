@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Farias & Silva Advogados | Especialistas em Direito do Trabalho</title>
+  <meta name="description" content="Atuamos na defesa do trabalhador contra demissões injustas, assédio moral, horas extras não pagas e acidentes de trabalho. Fale conosco.">
+  <meta name="keywords" content="advogado trabalhista, direito do trabalho, demissão injusta, horas extras, assédio moral, rescisão, FGTS, acidente de trabalho, estabilidade, Recife">
+  <link rel="canonical" href="https://fariasesilvaadvogados.github.io/">
+  <link rel="icon" type="image/png" href="assets/images/logomarca.png">
+  <link rel="stylesheet" href="assets/css/main.css">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGCM2K9T');</script>
+<!-- End Google Tag Manager -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "name": "Farias & Silva Advogados Associados",
+    "url": "https://fariasesilvaadvogados.github.io/",
+    "areaServed": { "@type": "State", "name": "Pernambuco" },
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Serviços em Direito do Trabalho",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Demissão Injusta e Rescisão" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Horas Extras e Adicionais" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Assédio Moral e Sexual" } }
+      ]
+    }
+  }
+  </script>
+<base target="_blank">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGCM2K9T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="#" class="logo">
+        <img src="assets/images/logomarca.png" alt="Logomarca">
+        <div class="logo-text">Farias & Silva<span>ADVOGADOS</span></div>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#inicio" class="active">Início</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+      <button class="mobile-menu-btn"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="inicio" class="hero">
+    <div class="container">
+      <div class="hero-content fade-in">
+        <span class="hero-badge">⚖️ Especialistas em Direito do Trabalho</span>
+        <h1>Defendendo seus <span class="highlight">direitos trabalhistas</span> contra abusos do empregador</h1>
+        <p>Atuamos com excelência na defesa do trabalhador contra demissões injustas, salários atrasados, assédio moral e não pagamento de horas extras e adicionais.</p>
+        <div class="hero-buttons">
+          <a href="https://wa.me/5581920050361?text=Ol%C3%A1%2C%20Gostaria%20de%20Tirar%20Uma%20D%C3%BAvida!" class="btn btn-accent">Fale pelo WhatsApp</a>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-item"><h3>+20</h3><p>Anos de Experiência</p></div>
+          <div class="stat-item"><h3>+2000</h3><p>Ações Trabalhistas</p></div>
+        </div>
+      </div>
+      <div class="hero-image fade-in">
+        <img src="assets/images/foto-albezio.jpg" alt="Albézio de Melo Farias" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="sobre" class="about section">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-image fade-in">
+         <div class="experience-badge"><h3>+2.000</h3><p>Processos em Defesa do Trabalhador</p></div>
+        </div>
+        <div class="about-content fade-in">
+          <h2>Defendendo o Trabalhador</h2>
+          <p>O escritório <strong>Farias & Silva Advogados</strong> possui uma trajetória sólida na luta contra os abusos cometidos por empregadores. Estamos ao lado de trabalhadores que foram demitidos injustamente, tiveram salários e verbas retidos, sofreram assédio moral ou adoeceram em função do trabalho.</p>
+          <ul class="about-features">
+            <li>Atuação especializada na CLT e na Súmula 4 do TST (prova testemunhal)</li>
+            <li>Estratégias ágeis para obtenção de tutelas de urgência e depósitos judiciais</li>
+            <li>Acompanhamento completo, da conciliação ao trânsito em julgado</li>
+          </ul>
+          <a href="#contato" class="btn btn-primary">Agendar Análise do Caso</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section id="servicos" class="services section">
+    <div class="container">
+      <div class="section-header fade-in">
+        <h2>Áreas de Atuação Trabalhista</h2>
+        <p>Atendemos as principais demandas do trabalhador, com base na legislação vigente e na jurisprudência consolidada do TST e do STF.</p>
+      </div>
+      <div class="services-grid">
+        <article class="service-card fade-in">
+          <div class="service-icon">🚫</div>
+          <h3>Demissão Injusta e Rescisão</h3>
+          <p>Revisão completa da rescisão: verbas rescisórias, FGTS, multa de 40%, aviso prévio e seguro-desemprego. Quando a demissão é injusta, buscamos a rescisão indireta com estabilidade.</p>
+        </article>
+        <article class="service-card fade-in">
+          <div class="service-icon">💰</div>
+          <h3>Horas Extras e Adicionais</h3>
+          <p>Comprovação de jornada notória (sem registro de ponto), adicional noturno, DSR, insalubridade e periculosidade. Recupere valores não pagos dos últimos 5 anos.</p>
+        </article>
+        <article class="service-card fade-in">
+          <div class="service-icon">⚖️</div>
+          <h3>Assédio Moral e Sexual</h3>
+          <p>Defesa contra humilhações públicas, gritos, metas impossíveis e isolamento deliberado. Conseguimos indenização por dano moral e, em casos graves, a reintegração ao emprego.</p>
+        </article>
+        <article class="service-card fade-in">
+          <div class="service-icon">🤱</div>
+          <h3>Estabilidade Provisória</h3>
+          <p>Estabilidade garantida por lei: gestantes, acidentados do trabalho (12 meses após a alta), dirigentes sindicais e membros de CIPA. Demissão nesse período? Reintegração ou indenização.</p>
+        </article>
+        <article class="service-card fade-in">
+          <div class="service-icon">🏥</div>
+          <h3>Acidente e Doença do Trabalho</h3>
+          <p>Comprovação do nexo causal entre a jornada e a lesão ou doença: estabilidade, adicional de insalubridade ou periculosidade e auxílio no processo junto ao INSS.</p>
+        </article>
+        <article class="service-card fade-in">
+          <div class="service-icon">⚡</div>
+          <h3>Tutelas de Urgência</h3>
+          <p>Pedidos de antecipação de tutela para garantir salários, depósitos judiciais e a continuidade do contrato durante o processo, evitando o desgaste financeiro da demora.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Blog Preview -->
+  <section id="blog" class="services section" style="background: var(--light-gray);">
+    <div class="container">
+      <div class="section-header fade-in"><h2>Blog Jurídico</h2><p>Informações cruciais para quem enfrenta problemas com seu empregador.</p></div>
+      <div class="blog-grid">
+        <article class="blog-card fade-in">
+          <div class="blog-image">⏰</div>
+          <div class="blog-content">
+            <h3><a href="blog-post.html">Horas Extras sem Registro de Ponto: Como Comprovar na Justiça?</a></h3>
+            <p>Jornada notória, testemunhas e mensagens corporativas: as estratégias que a Justiça admite para comprovar a jornada real e receber até 5 anos de valores.</p>
+            <a href="blog-post.html" class="btn btn-outline" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Ler Artigo</a>
+          </div>
+        </article>
+        <article class="blog-card fade-in">
+          <div class="blog-image">⚖️</div>
+          <div class="blog-content">
+            <h3><a href="blog-post.html">Assédio Moral e Metas Abusivas: Sinais e Como Reagir</a></h3>
+            <p>Reconheça os padrões de constrangimento no ambiente de trabalho e entenda como a Justiça condena empresas a indenizar o trabalhador.</p>
+            <a href="blog-post.html" class="btn btn-outline" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Ler Artigo</a>
+          </div>
+        </article>
+        <article class="blog-card fade-in">
+          <div class="blog-image">🚫</div>
+          <div class="blog-content">
+            <h3><a href="blog-post.html">Rescisão Indireta: A "Demissão" do Empregador</a></h3>
+            <p>Se a empresa descumpriu o contrato, você pode pedir a rescisão e manter todos os direitos da demissão sem justa causa, inclusive a estabilidade.</p>
+            <a href="blog-post.html" class="btn btn-outline" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Ler Artigo</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section (Número Atualizado) -->
+  <section id="contato" class="contact section">
+    <div class="container">
+      <div class="section-header fade-in"><h2>Atendimento Imediato</h2><p>Análise gratuita do seu caso. Atendemos via WhatsApp com prioridade para casos urgentes.</p></div>
+      <div class="contact-grid">
+        <div class="contact-info fade-in">
+          <h3>Canais de Contato</h3>
+          <div class="contact-item"><div><h4>WhatsApp Prioridade</h4><p><a href="tel:+5581920050361">(81) 92005-0361</a></p></div></div>
+          <div class="contact-item"><div><h4>Email</h4><p>contato@fariasesilvaadv.com.br</p></div></div>
+          <div class="contact-item"><div><h4>Atendimento</h4><p>Segunda a Sexta, 08h às 18h</p></div></div>
+        </div>
+        <div class="contact-form fade-in" style="background: var(--light-gray); padding: 2rem; border-radius: var(--radius); border: 1px solid #eee;">
+          <h4 style="margin-bottom: 1rem;">Qual o seu problema?</h4>
+          <p style="font-size: 0.9rem; color: #666;">Selecionar abaixo ajuda a acelerar nossa triagem jurídica.</p>
+          <div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+            <a href="https://wa.me/5581920050361?text=Ol%C3%A1%2C%20Gostaria%20de%20Tirar%20Uma%20D%C3%BAvida!" class="btn btn-primary" style="justify-content: flex-start; border-radius: 8px; background: #e2e8f0; color: #333; box-shadow: none; border: 1px solid #cbd5e0;">🚫 Demissão Injusta</a>
+            <a href="https://wa.me/5581920050361?text=Ol%C3%A1%2C%20Gostaria%20de%20Tirar%20Uma%20D%C3%BAvida!" class="btn btn-primary" style="justify-content: flex-start; border-radius: 8px; background: #e2e8f0; color: #333; box-shadow: none; border: 1px solid #cbd5e0;">💰 Salários e Verbas Atrasadas</a>
+            <a href="https://wa.me/5581920050361?text=Ol%C3%A1%2C%20Gostaria%20de%20Tirar%20Uma%20D%C3%BAvida!" class="btn btn-primary" style="justify-content: flex-start; border-radius: 8px; background: #e2e8f0; color: #333; box-shadow: none; border: 1px solid #cbd5e0;">⚖️ Assédio no Trabalho</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/images/logomarca.png" alt="Farias & Silva" style="height:50px; margin-bottom: 1rem;">
+          <p>Escritório de advocacia especializado na defesa do trabalhador contra abusos cometidos por empregadores.</p>
+        </div>
+        <div class="footer-links"><h4>Links</h4><ul><li><a href="#inicio">Início</a></li><li><a href="#servicos">Serviços</a></li><li><a href="#blog">Blog</a></li></ul></div>
+        <div class="footer-links"><h4>Contato</h4><ul><li><a href="tel:+5581920050361">(81) 92005-0361</a></li><li>contato@fariasesilvaadv.com.br</li><li>Recife, PE</li></ul></div>
+      </div>
+      <div class="footer-bottom"><p>&copy; <span id="current-year">2026</span> Farias & Silva Advogados. Todos os direitos reservados. Conteúdo informativo, não constitui consultoria.</p></div>
+    </div>
+  </footer>
+
+  <a href="https://wa.me/5581920050361?text=Ol%C3%A1%2C%20Gostaria%20de%20Tirar%20Uma%20D%C3%BAvida!" class="whatsapp-float" target="_blank">
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884"/></svg>
+  </a>
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
