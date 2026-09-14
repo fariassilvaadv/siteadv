@@ -1,6 +1,7 @@
 
 /* ============================================
    FARIAS & SILVA ADVOGADOS - MAIN JS
+   Site: Especialistas em Direito do Trabalho
    ============================================ */
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -78,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
     contactForm.addEventListener('submit', function(e) {
       e.preventDefault();
 
-      // Aqui você pode integrar com um serviço de email como Formspree, EmailJS, etc.
+      // Integração com serviço de e-mail (Formspree, EmailJS etc.) para triagem de casos trabalhistas
       alert('Mensagem enviada com sucesso! Entraremos em contato em breve.');
       this.reset();
     });
